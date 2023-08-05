@@ -1,6 +1,5 @@
-FROM eclipse-temurin:19-jre-alpine
-
-LABEL maintainer="jberrenberg"
+FROM amazoncorretto:8u382
+LABEL maintainer="lgray"
 LABEL version="v6.1.0"
 
 
